@@ -1,0 +1,6 @@
+{
+  "name": "design-pattern-js",
+  "private": true,
+  "type": "module",
+  "description": "DESIGN-PATTERN misollarining JavaScript (ES modules) versiyasi. Node.js 18+ kerak."
+}
